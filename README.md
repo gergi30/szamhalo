@@ -79,6 +79,16 @@ Hálózati réteg:
   *  Internet Protocol (IPv4), IPv6
 
 ###Mi a feladata az ISO/OSI modell ülés (session) rétegének?
+Ülés (session) réteg:
+* Szolgáltatás
+  * kapcsolat menedzsment: felépítés, fenntarás és bontás
+  * munkamenet típusának meghatározása
+  * szinkronizációs pont menedzsment (checkpoint)
+* Interfész
+  * Attól függ…
+* Protokoll
+  * Token menedzsment
+  * Szinkronizációs checkpoints beszúrás
 
 ###Mik a főbb funkcionalitásai az ISO/OSI modell megjelenítési rétegének?
 
