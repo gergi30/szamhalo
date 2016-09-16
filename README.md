@@ -117,6 +117,7 @@ Kommunikáció a „legjobb szándék” (angolul best effort) elv szerint
 * nincs folyam-felügyelet
 
 ###Mi az a PAN?
+Personal Area Network (magánhálózat) nagyon alacsony kiterjedésű hálózat, amely létrejöhet perifériák és gép, valamint gép és gép között, a lényeg, hogy ~1m-es a processzorközi távolság
 
 ###Mi az a WAN? 
 
