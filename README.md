@@ -34,7 +34,7 @@ szerint.
 ###Mi a feladata és mik a főbb funkcionalitásai az ISO OSI modell fizikai rétegének?
 Fizikai réteg:
 * Szolgáltatás
-** Információt visz át két fizikailag összekötött eszköz között
+..* Információt visz át két fizikailag összekötött eszköz között
 
 ###Mi a feladata és mik a főbb funkcionalitásai az ISO/OSI modell adatkapcsolati rétegének?
 
