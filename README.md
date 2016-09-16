@@ -24,26 +24,46 @@ Hét féle réteget különböztet meg.
 5. Alkalmazási
 
 ###Mi az "Open System Interconnection Reference Model" (ISO OSI), hogyan specifikáljuk az egyes rétegeket?
+Röviden OSI referencia modell, amely egy 7-rétegű standard, koncepcionális modellt definiál kommunikációs hálózatok belső funkcionalitásaihoz. 
 
+###Mi a feladata és mik a főbb funkcionalitásai az ISO OSI modell fizikai rétegének?
 
-Mi a feladata és mik a főbb funkcionalitásai az ISO OSI modell fizikai rétegének?
-Mi a feladata és mik a főbb funkcionalitásai az ISO/OSI modell adatkapcsolati rétegének?
-Mi a feladata és mik a főbb funkcionalitásai az ISO/OSI modell hálózati rétegének?
-Mi a feladata az ISO/OSI modell ülés (session) rétegének?
-Mik a főbb funkcionalitásai az ISO/OSI modell megjelenítési rétegének?
-Mit jelent a hálózatok esetén az adatok burkolása? 
-Mit jelent a legjobb szándék (best effort) elv a hálózati kommunikációban?
-Mit jelent a "Black-box" megközelítés a kapcsolatokra?
-Mi az a PAN?
-Mi az a WAN? 
-Sorolja fel az internet 5 (előadáson elhangzott) jellemzőjét.
-Definiálja a hálózati sávszélességet? 
-Definiálja az átviteli késleltetést.
-Definiálja a propagációs késést.
-Mi a hálózati hoszt?
-Mi az átviteli csatorna?
-Mi a fő különbség a csomagkapcsolt és az áramkörkapcsolt hálózatok között?
-Adjon egy valós példát adatok beburkolására (pl. az előadáson látott Internet példa)!
-Mit értünk Internet homokóra alatt? Miért nehéz az IPv6-ra való átállás?
-Jellemezze egy mondatban a tűzfalakat, proxykat és NAT dobozokat!
-A Hálózati réteg funkcióit milyen síkok (planes) mentén csoportosíthatjuk még?
+###Mi a feladata és mik a főbb funkcionalitásai az ISO/OSI modell adatkapcsolati rétegének?
+
+###Mi a feladata és mik a főbb funkcionalitásai az ISO/OSI modell hálózati rétegének?
+
+###Mi a feladata az ISO/OSI modell ülés (session) rétegének?
+
+###Mik a főbb funkcionalitásai az ISO/OSI modell megjelenítési rétegének?
+
+###Mit jelent a hálózatok esetén az adatok burkolása? 
+
+###Mit jelent a legjobb szándék (best effort) elv a hálózati kommunikációban?
+
+###Mit jelent a "Black-box" megközelítés a kapcsolatokra?
+
+###Mi az a PAN?
+
+###Mi az a WAN? 
+
+###Sorolja fel az internet 5 (előadáson elhangzott) jellemzőjét.
+
+###Definiálja a hálózati sávszélességet? 
+
+###Definiálja az átviteli késleltetést.
+
+###Definiálja a propagációs késést.
+
+##Mi a hálózati hoszt?
+
+###Mi az átviteli csatorna?
+
+###Mi a fő különbség a csomagkapcsolt és az áramkörkapcsolt hálózatok között?
+
+###Adjon egy valós példát adatok beburkolására (pl. az előadáson látott Internet példa)!
+
+###Mit értünk Internet homokóra alatt? Miért nehéz az IPv6-ra való átállás?
+
+###Jellemezze egy mondatban a tűzfalakat, proxykat és NAT dobozokat!
+
+###A Hálózati réteg funkcióit milyen síkok (planes) mentén csoportosíthatjuk még?
