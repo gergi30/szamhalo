@@ -120,7 +120,7 @@ Kommunikáció a „legjobb szándék” (angolul best effort) elv szerint
 Personal Area Network (magánhálózat) nagyon alacsony kiterjedésű hálózat, amely létrejöhet perifériák és gép, valamint gép és gép között, a lényeg, hogy ~1m-es a processzorközi távolság
 
 ###Mi az a WAN? 
-Wide Area Network (nagykiterjedésű hálózat), amely nagyobb területet fed le, jellemzően országok, kontinensek közötti kommunikációt valósít meg.  ~100km-1000km-es a processzorközi távolság
+Wide Area Network (nagykiterjedésű hálózat), amely nagyobb területet fed le, jellemzően országok, kontinensek közötti kommunikációt valósít meg.  ~100-1000km-es a processzorközi távolság
 
 ###Sorolja fel az internet 5 (előadáson elhangzott) jellemzőjét.
 
