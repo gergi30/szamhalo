@@ -91,6 +91,16 @@ Hálózati réteg:
   * Szinkronizációs checkpoints beszúrás
 
 ###Mik a főbb funkcionalitásai az ISO/OSI modell megjelenítési rétegének?
+Megjelenítési réteg:
+* Szolgáltatás
+  * Adatkonverzió különböző reprezentációk között
+  * Pl. big endian to little endian
+  * Pl. Ascii to Unicode
+* Interfész
+  * Attól függ…
+* Protokoll
+  * Adatformátumokat definiál
+  * Transzformációs szabályokat alkalmaz
 
 ###Mit jelent a hálózatok esetén az adatok burkolása? 
 
