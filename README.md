@@ -153,5 +153,9 @@ Csomagkapcsoltnál egy csatornán megy át többféle(minden) csomag, áramkör 
 ###Mit értünk Internet homokóra alatt? Miért nehéz az IPv6-ra való átállás?
 
 ###Jellemezze egy mondatban a tűzfalakat, proxykat és NAT dobozokat!
+Absztrakciós rétegek. 
+* Tuzfal: Alkalmazásréteg fejlécét vizsgálhatja 
+* Proxyk: Alkalmazás végpontot szimulál 
+* NAT: Megtöri a végpont végpont elérhetoséget a hálózatban
 
 ###A Hálózati réteg funkcióit milyen síkok (planes) mentén csoportosíthatjuk még?
