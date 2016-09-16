@@ -59,7 +59,7 @@ szerint.
 
 ###Definiálja a propagációs késést.
 
-##Mi a hálózati hoszt?
+###Mi a hálózati hoszt?
 
 ###Mi az átviteli csatorna?
 
