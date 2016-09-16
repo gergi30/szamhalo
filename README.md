@@ -106,6 +106,9 @@ Megjelenítési réteg:
 Minden egyes réteg a saját fejlécét illeszti hozzá az aktuális csomaghoz végezetül pedig az IPdatagramm-hoz az Eternet-fejléc mellé egy Eternet lábléc is kerül (Eternet keret) ezzel a módszerrel az átviteli adatot „becsomagolva”.
 
 ###Mit jelent a legjobb szándék (best effort) elv a hálózati kommunikációban?
+Kommunikáció a „legjobb szándék” (angolul best effort) elv szerint
+* ha egy csomag nem éri el a célt, akkor törlődik
+* az alkalmazás újraküldi ilyen esetekben
 
 ###Mit jelent a "Black-box" megközelítés a kapcsolatokra?
 
