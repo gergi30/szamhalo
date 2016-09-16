@@ -111,6 +111,10 @@ Kommunikáció a „legjobb szándék” (angolul best effort) elv szerint
 * az alkalmazás újraküldi ilyen esetekben
 
 ###Mit jelent a "Black-box" megközelítés a kapcsolatokra?
+„Black box” megközelítés a kapcsolatokhoz
+* a Black Box-okat később Gateway-eknek és Router-eknek keresztelték át
+* csomaginformációk nem kerülnek megőrzésre
+* nincs folyam-felügyelet
 
 ###Mi az a PAN?
 
