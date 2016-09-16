@@ -6,6 +6,8 @@ Számítógépes hálózatok definíciók kidolgozás 2016-17/1
 
 ###Hány réteget különböztet meg az ISO/OSI referencia modell? Sorolja fel őket.
 Hét féle réteget különböztet meg.
+..*Fizikai
+..*Adatkapcsolati
 (Fizikai, adatkapcsolati, hálózati, szállítói, munkamenet,megjelenítési, alkalmazási)
 
 Hány réteget különböztet meg a Tannenbaum-féle hibrid rétegmodell? sorolja fel őket.
