@@ -14,9 +14,18 @@ Hét féle réteget különböztet meg.
 6. Megjelenítési
 7. Alkalmazási
 
+###Hány réteget különböztet meg a Tannenbaum-féle hibrid rétegmodell? sorolja fel őket.
+Öt féle réteget különböztet meg.
 
-Hány réteget különböztet meg a Tannenbaum-féle hibrid rétegmodell? sorolja fel őket.
-Mi az "Open System Interconnection Reference Model" (ISO OSI), hogyan specifikáljuk az egyes rétegeket?
+1. Fizikai
+2. Adatkapcsolati
+3. Hálózati
+4. Szállítói
+5. Alkalmazási
+
+###Mi az "Open System Interconnection Reference Model" (ISO OSI), hogyan specifikáljuk az egyes rétegeket?
+
+
 Mi a feladata és mik a főbb funkcionalitásai az ISO OSI modell fizikai rétegének?
 Mi a feladata és mik a főbb funkcionalitásai az ISO/OSI modell adatkapcsolati rétegének?
 Mi a feladata és mik a főbb funkcionalitásai az ISO/OSI modell hálózati rétegének?
