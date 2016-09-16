@@ -123,6 +123,11 @@ Personal Area Network (magánhálózat) nagyon alacsony kiterjedésű hálózat,
 Wide Area Network (nagykiterjedésű hálózat), amely nagyobb területet fed le, jellemzően országok, kontinensek közötti kommunikációt valósít meg.  ~100-1000km-es a processzorközi távolság
 
 ###Sorolja fel az internet 5 (előadáson elhangzott) jellemzőjét.
+* rendszerfüggetlenség;
+* nincs központi felügyelet;
+* építőelemei a LAN-ok;
+* globális;
+* olyan szolgáltatásokat nyújt, mint a World Wide Web, e-mail vagy fájlátvitel.
 
 ###Definiálja a hálózati sávszélességet? 
 
