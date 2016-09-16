@@ -1,7 +1,7 @@
 # Szamhalo ELTE IK
 Számítógépes hálózatok definíciók kidolgozás 2016-17/1 
 
-##1. előadás
+##1. előadás (24 kérdés)
 
 ###Hány réteget különböztet meg az ISO/OSI referencia modell? Sorolja fel őket.
 Hét féle réteget különböztet meg.
