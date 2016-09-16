@@ -148,6 +148,7 @@ Az a közeg, amelyen a kommunikáció folyik a résztvevő hosztok között. Ez 
 Csomagkapcsoltnál egy csatornán megy át többféle(minden) csomag, áramkör kapcsoltnál sok csatorna van és ezeket kapcsoljuk áramköri elemekkel egymáshoz.
 
 ###Adjon egy valós példát adatok beburkolására (pl. az előadáson látott Internet példa)!
+-[ethernet header | IP header | TCP header | HTTP header | WEB PAGE | ethernet tailer]-
 
 ###Mit értünk Internet homokóra alatt? Miért nehéz az IPv6-ra való átállás?
 
