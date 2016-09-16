@@ -130,12 +130,16 @@ Wide Area Network (nagykiterjedésű hálózat), amely nagyobb területet fed le
 * olyan szolgáltatásokat nyújt, mint a World Wide Web, e-mail vagy fájlátvitel.
 
 ###Definiálja a hálózati sávszélességet? 
+Az adat átviteléhez elérhető vagy felhasznált kommunikációs erőforrás mérésére szolgáló mennyiség, amelyet bit per másodpercben szoktak kifejezni.
 
 ###Definiálja az átviteli késleltetést.
+Az az időtartam, amely egy csomag összes bitjének az átviteli csatornára tételéhez szükséges. Jelölése: 𝑑𝑇.
 
 ###Definiálja a propagációs késést.
+Az az időtartam, amely a jelnek szükséges ahhoz, hogy a küldőtől megérkezzen a címzetthez. Jelölése: d.
 
 ###Mi a hálózati hoszt?
+Olyan eszköz, amely egy számítógépes hálózattal áll összeköttetésben. Egy hoszt információkat oszthat meg, szolgáltatást és alkalmazásokat biztosíthat a hálózat további csomópontjainak. (Továbbiakban csak hosztként hivatkozunk rá.)
 
 ###Mi az átviteli csatorna?
 
