@@ -63,6 +63,20 @@ Adatkapcsolati réteg:
   * infiniBand
 
 ###Mi a feladata és mik a főbb funkcionalitásai az ISO/OSI modell hálózati rétegének?
+Hálózati réteg:
+* Szolgáltatás
+  * Csomagtovábbítás
+  * Útvonalválasztás
+  * Csomag fragmentálás kezelése
+  * Csomag ütemezés
+  * Puffer kezelés
+* Interfész
+  * Csomag küldése egy adott végpontnak
+* Protokoll
+  * Globálisan egyedi címeket definiálása
+  * Routing táblák karbantartása
+* Példák
+  *  Internet Protocol (IPv4), IPv6
 
 ###Mi a feladata az ISO/OSI modell ülés (session) rétegének?
 
