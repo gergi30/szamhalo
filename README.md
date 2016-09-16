@@ -142,6 +142,7 @@ Az az időtartam, amely a jelnek szükséges ahhoz, hogy a küldőtől megérkez
 Olyan eszköz, amely egy számítógépes hálózattal áll összeköttetésben. Egy hoszt információkat oszthat meg, szolgáltatást és alkalmazásokat biztosíthat a hálózat további csomópontjainak. (Továbbiakban csak hosztként hivatkozunk rá.)
 
 ###Mi az átviteli csatorna?
+Az a közeg, amelyen a kommunikáció folyik a résztvevő hosztok között. Ez a közeg lehet egy koaxális kábel, a levegő, optikai kábel, stb. 
 
 ###Mi a fő különbség a csomagkapcsolt és az áramkörkapcsolt hálózatok között?
 
