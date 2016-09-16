@@ -24,7 +24,12 @@ Hét féle réteget különböztet meg.
 5. Alkalmazási
 
 ###Mi az "Open System Interconnection Reference Model" (ISO OSI), hogyan specifikáljuk az egyes rétegeket?
-Röviden OSI referencia modell, amely egy 7-rétegű standard, koncepcionális modellt definiál kommunikációs hálózatok belső funkcionalitásaihoz. 
+Röviden OSI referencia modell, amely egy 7-rétegű standard, koncepcionális modellt definiál kommunikációs hálózatok belső funkcionalitásaihoz.
+Rétegek jellemzése:
+* Szolgáltatás
+* Intefész
+* Protokoll
+szerint.
 
 ###Mi a feladata és mik a főbb funkcionalitásai az ISO OSI modell fizikai rétegének?
 
