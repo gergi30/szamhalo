@@ -145,6 +145,7 @@ Olyan eszköz, amely egy számítógépes hálózattal áll összeköttetésben.
 Az a közeg, amelyen a kommunikáció folyik a résztvevő hosztok között. Ez a közeg lehet egy koaxális kábel, a levegő, optikai kábel, stb. 
 
 ###Mi a fő különbség a csomagkapcsolt és az áramkörkapcsolt hálózatok között?
+Csomagkapcsoltnál egy csatornán megy át többféle(minden) csomag, áramkör kapcsoltnál sok csatorna van és ezeket kapcsoljuk áramköri elemekkel egymáshoz.
 
 ###Adjon egy valós példát adatok beburkolására (pl. az előadáson látott Internet példa)!
 
