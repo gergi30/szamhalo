@@ -48,6 +48,19 @@ Fizikai réteg:
   * rádió frekvenciás adó
 
 ###Mi a feladata és mik a főbb funkcionalitásai az ISO/OSI modell adatkapcsolati rétegének?
+Adatkapcsolati réteg:
+* Szolgáltatás
+  * Adatok keretekre tördelésezés: határok a csomagok között
+  * Közeghozzáférés vezérlés (MAC)
+  * Per-hop megbízhatóság és folyamvezérlés
+* Interfész
+  * Keret küldése két közös médiumra kötött eszköz között
+* Protokoll
+  * Fizikai címzés (pl. MAC address, IP address)
+* Példák
+  * ethernet, 
+  * wifi,
+  * infiniBand
 
 ###Mi a feladata és mik a főbb funkcionalitásai az ISO/OSI modell hálózati rétegének?
 
