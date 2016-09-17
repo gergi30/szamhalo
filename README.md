@@ -151,6 +151,7 @@ Csomagkapcsoltnál egy csatornán megy át többféle(minden) csomag, áramkör 
 -[ethernet header | IP header | TCP header | HTTP header | WEB PAGE | ethernet tailer]-
 
 ###Mit értünk Internet homokóra alatt? Miért nehéz az IPv6-ra való átállás?
+Az internet homokóra az egyes rétegekben alkalmazott protokollok számát jelképezni. A hálózati rétegben nagyon kevés van, az IPv4 a legelterjedtebb és minden eszközt át kellene állítani IPv6-ra, hogy megfeleloen muködjön.
 
 ###Jellemezze egy mondatban a tűzfalakat, proxykat és NAT dobozokat!
 Absztrakciós rétegek. 
