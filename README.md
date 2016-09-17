@@ -161,3 +161,4 @@ Absztrakciós rétegek.
 * NAT: Megtöri a végpont végpont elérhetoséget a hálózatban
 
 ###A Hálózati réteg funkcióit milyen síkok (planes) mentén csoportosíthatjuk még?
+Control plane/Vezérlési sík: IP-BGP-RIP-OSPF
