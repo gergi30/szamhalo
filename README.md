@@ -2,7 +2,8 @@
 Számítógépes hálózatok definíciók kidolgozás 2016-17/1 
 
 ###Tartalomjegyzék
-*[1.előadás](https://github.com/gergi30/szamhalo/blob/master/README.md#1-előadás-24-kérdés)
+* [1.előadás](https://github.com/gergi30/szamhalo/blob/master/README.md#1-előadás-24-kérdés)
+* [2.előadás](https://github.com/gergi30/szamhalo#2-előadás-x-kérdés)
 
 ##1. előadás (24 kérdés)
 
