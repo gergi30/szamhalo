@@ -146,6 +146,7 @@ Az a közeg, amelyen a kommunikáció folyik a résztvevő hosztok között. Ez 
 
 ###Mi a fő különbség a csomagkapcsolt és az áramkörkapcsolt hálózatok között?
 Csomagkapcsoltnál egy csatornán megy át többféle(minden) csomag, áramkör kapcsoltnál sok csatorna van és ezeket kapcsoljuk áramköri elemekkel egymáshoz.
+![kapcsolat](https://github.com/gergi30/szamhalo/blob/master/kapcsolat.png)
 
 ###Adjon egy valós példát adatok beburkolására (pl. az előadáson látott Internet példa)!
 -[ethernet header | IP header | TCP header | HTTP header | WEB PAGE | ethernet tailer]-
